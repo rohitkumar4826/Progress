@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to help the user to find the best food recipes.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://astounding-entremet-b2cec2.netlify.app/",
+    "source": "https://github.com/rohitkumar4826/Food-Recipe"
+  }, 
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a one of my portfolio website to showcase my skill.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://superb-youtiao-f2fa90.netlify.app/",
+    "source": "https://github.com/rohitkumar4826/PortfolioU"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to help the user to remind him his/her noted tasks.",
+    "skills": ["React", "Express", "Tailwindcss"],
+    "demo": "https://todolist-three-woad.vercel.app/",
+    "source": "https://github.com/rohitkumar4826/Todolist"
+  },
+  {
+    "title": "Project D",
+    "imageSrc": "projects/project.png",
+    "description": "This is a small project developed to check the weather forecasting with proper details.",
+    "skills": ["Html","Css","JavaScript", "Node"],
+    "demo": "https://weather-app-upde.onrender.com",
+    "source": "https://github.com/rohitkumar4826/Weatherapp"
+  },
+  {
+    "title": "Project E",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to ship the product online and to make the shopping easy for the custommers.",
+    "skills": ["React", "Express", "Node", "MongoDB", "Razorpay"],
+    "demo": "https://ecommerce-umber-phi.vercel.app/",
+    "source": "https://github.com/rohitkumar4826/ecommerce_shopping_cart-12"
+  }
+]
