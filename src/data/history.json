@@ -1,28 +1,10 @@
 [
   {
-    "role": "Fresher",
-    "organisation": "",
-    "startDate": "",
-    "endDate": "",
-    "experiences": [
-    ],
-    "imageSrc": "history/dummy.png"
-  },
-  {
-    "role": "Fresher",
-    "organisation": "",
-    "startDate": "",
-    "endDate": "",
-    "experiences": [
-    ],
-    "imageSrc": "history/dummy.png"
-  },
-  {
-    "role": "Fresher",
-    "organisation": "",
-    "startDate": "",
-    "endDate": "",
-    "experiences": [
+    "role": "MERN Stack Developer",
+    "organisation": "DSR Group of Companies",
+    "startDate": "March, 2024",
+    "endDate": "June, 2024",
+    "experiences": ["Worked on error handeling", "Worked on authentication", "Worked on authorization", "Debugging"
     ],
     "imageSrc": "history/dummy.png"
   }

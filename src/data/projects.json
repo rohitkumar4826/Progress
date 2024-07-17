@@ -2,13 +2,21 @@
   {
     "title": "Project A",
     "imageSrc": "projects/project.png",
+    "description": "This is a project made to help the user to find and read the best blogs.",
+    "skills": ["React", "Express", "Node", "Tailwindcss", "Flowbite css"],
+    "demo": "#",
+    "source": "https://github.com/rohitkumar4826/mern-blog"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
     "description": "This is a project made to help the user to find the best food recipes.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://astounding-entremet-b2cec2.netlify.app/",
     "source": "https://github.com/rohitkumar4826/Food-Recipe"
   }, 
   {
-    "title": "Project B",
+    "title": "Project C",
     "imageSrc": "projects/project.png",
     "description": "This is a one of my portfolio website to showcase my skill.",
     "skills": ["React", "Express", "Node"],
@@ -16,7 +24,7 @@
     "source": "https://github.com/rohitkumar4826/PortfolioU"
   },
   {
-    "title": "Project C",
+    "title": "Project D",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to help the user to remind him his/her noted tasks.",
     "skills": ["React", "Express", "Tailwindcss"],
@@ -24,7 +32,7 @@
     "source": "https://github.com/rohitkumar4826/Todolist"
   },
   {
-    "title": "Project D",
+    "title": "Project E",
     "imageSrc": "projects/project.png",
     "description": "This is a small project developed to check the weather forecasting with proper details.",
     "skills": ["Html","Css","JavaScript", "Node"],
@@ -32,7 +40,7 @@
     "source": "https://github.com/rohitkumar4826/Weatherapp"
   },
   {
-    "title": "Project E",
+    "title": "Project F",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to ship the product online and to make the shopping easy for the custommers.",
     "skills": ["React", "Express", "Node", "MongoDB", "Razorpay"],

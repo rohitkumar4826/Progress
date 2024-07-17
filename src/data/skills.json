@@ -1,22 +1,38 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
-  },
-  {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-  },
-  {
-    "title": "React",
+    "title": "React.js",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Node",
+    "title": "Node.js",
     "imageSrc": "skills/node.png"
   },
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mys.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/doker.png"
+  },
+  {
+    "title": "JIRA",
+    "imageSrc": "skills/ggra.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "skills/giit.png"
+  },
+  {
+    "title": "OOPS",
+    "imageSrc": "skills/oops.png"
+  },
+  {
+    "title": "C/C++",
+    "imageSrc": "skills/cp.png"
   }
 ]
